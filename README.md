@@ -110,8 +110,4 @@ Possible future enhancements:
 
 This project demonstrates the implementation of a CNN model for image classification using the Fashion MNIST dataset. It provides practical understanding of deep learning concepts and computer vision techniques.
 
----
 
-# Author
-
-Vaibhav
