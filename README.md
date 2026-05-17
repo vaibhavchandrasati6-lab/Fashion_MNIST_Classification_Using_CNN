@@ -45,18 +45,6 @@ The Fashion MNIST dataset contains:
 
 ---
 
-# Workflow
-
-1. Load the Fashion MNIST dataset
-2. Normalize image pixel values
-3. Reshape images for CNN input
-4. Build CNN architecture
-5. Train the CNN model
-6. Evaluate model performance
-7. Predict image classes
-
----
-
 # CNN Architecture
 
 The model includes:
@@ -69,7 +57,6 @@ The model includes:
 * Softmax Output Layer
 
 ---
-
 
 # Model Performance
 
