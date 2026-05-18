@@ -42,7 +42,6 @@ The Fashion MNIST dataset contains:
 | 8     | Bag         |
 | 9     | Ankle boot  |
 
-
 ---
 
 # CNN Architecture
